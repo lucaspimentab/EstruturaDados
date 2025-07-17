@@ -1,0 +1,41 @@
+Parâmetros lidos:
+seed=1
+limiarCusto=10000.000000
+a=0.000045
+b=-0.000001
+c=0.000006
+tam=2000
+Coeficientes calibrados usados:
+a=0.0000450124
+b=-0.0000012346
+c=0.0000056466
+Primeiros 10 valores do vetor: 0 1 2 3 4 5 6 7 8 9 
+size 2000 seed 1 breaks 20
+
+iter 0
+mps 2 cost 0.903948780 cmp 19916 move 3082 calls 1999
+mps 401 cost 0.386829411 cmp 8722 move 4773 calls 22
+mps 800 cost 0.350295681 cmp 7945 move 5981 calls 10
+mps 1199 cost 0.467635909 cmp 10682 move 10699 calls 4
+mps 1598 cost 0.467635909 cmp 10682 move 10699 calls 4
+mps 1997 cost 0.467635909 cmp 10682 move 10699 calls 4
+nummps 6 limParticao 800 mpsdiff 0.080807
+
+
+iter 0
+qs lq 1 cost 0.264969739 cmp 5995 move 3998 calls 10
+in lq 1 cost 0.157239095 cmp 3648 move 5647 calls 1
+qs lq 200 cost 2.868731684 cmp 65488 move 64066 calls 10
+in lq 200 cost 10.878287565 cmp 248545 move 250544 calls 1
+qs lq 399 cost 5.011937938 cmp 114457 move 113479 calls 10
+in lq 399 cost 18.527273677 cmp 423268 move 425267 calls 1
+qs lq 598 cost 7.424731133 cmp 169579 move 168865 calls 10
+in lq 598 cost 24.045069608 cmp 549309 move 551308 calls 1
+qs lq 797 cost 7.669543991 cmp 175182 move 174852 calls 10
+in lq 797 cost 28.404943098 cmp 648900 move 650899 calls 1
+qs lq 996 cost 9.134849823 cmp 208657 move 208453 calls 10
+in lq 996 cost 31.850823972 cmp 727613 move 729612 calls 1
+numlq 6 limQuebras 1 lqdiff 18.370035
+
+Tempo de execução: 0.000034 segundos
+cmp 7945 move 5981 calls 10

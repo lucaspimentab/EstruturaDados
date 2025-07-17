@@ -1,0 +1,30 @@
+3
+30
+120
+4
+8
+0 1 0 0 0 0 0 0 
+1 0 1 0 0 0 0 0 
+0 1 0 1 0 0 0 0 
+0 0 1 0 1 0 0 0 
+0 0 0 1 0 1 0 0 
+0 0 0 0 1 0 1 1 
+0 0 0 0 0 1 0 0 
+0 0 0 0 0 1 0 0 
+15
+10 pac 801 org 0 dst 1
+20 pac 802 org 1 dst 2
+30 pac 803 org 2 dst 3
+40 pac 804 org 3 dst 4
+50 pac 805 org 4 dst 5
+60 pac 806 org 5 dst 6
+70 pac 807 org 6 dst 7
+80 pac 808 org 7 dst 0
+90 pac 809 org 0 dst 1
+100 pac 810 org 1 dst 2
+110 pac 811 org 2 dst 3
+120 pac 812 org 3 dst 4
+130 pac 813 org 4 dst 5
+140 pac 814 org 5 dst 6
+150 pac 815 org 6 dst 7
+10

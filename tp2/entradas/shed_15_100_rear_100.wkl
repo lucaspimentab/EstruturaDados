@@ -1,0 +1,122 @@
+3
+30
+120
+4
+15
+0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 
+1 0 1 0 0 0 0 0 0 1 0 1 0 0 0 
+0 1 0 1 0 0 0 0 0 0 1 0 1 0 0 
+0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 
+0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 
+0 0 0 0 1 0 1 1 0 0 0 0 0 1 0 
+0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 1 0 0 -1900972664 32764 -1953100288 1039059362 -1900973440 32764 -414389067 
+-1900972664 32764 -1953100288 1039059362 -1900973440 32764 -414389067 22036 -1900973968 120 30 3 100 15 1103606496 
+-1900973968 120 30 3 100 15 1103606496 22037 0 0 1103606496 22037 -853348636 407504507 -842746422 
+0 0 1103606496 22037 -853348636 407504507 -842746422 407504507 176778880 32708 176778440 32708 1103607056 22037 1103607056 
+176778880 32708 176778440 32708 1103607056 22037 1103607056 22037 1103607056 22037 1103607056 22037 1103607813 22037 1103615247 
+1103607056 22037 1103607056 22037 1103607876 22037 1103615247 22037 176816128 32708 0 0 0 0 0 
+176816128 32708 0 0 0 0 0 0 0 0 0 0 1103606576 22037 1 
+0 0 0 0 1103606576 22037 1 0 16 0 0 0 0 0 0 
+100
+10 pac 801 org 0 dst 1
+20 pac 802 org 1 dst 2
+30 pac 803 org 2 dst 3
+40 pac 804 org 3 dst 4
+50 pac 805 org 4 dst 5
+60 pac 806 org 5 dst 6
+70 pac 807 org 6 dst 7
+80 pac 808 org 7 dst 8
+90 pac 809 org 8 dst 9
+100 pac 810 org 9 dst 10
+110 pac 811 org 10 dst 11
+120 pac 812 org 11 dst 12
+130 pac 813 org 12 dst 13
+140 pac 814 org 13 dst 14
+150 pac 815 org 14 dst 0
+160 pac 816 org 0 dst 1
+170 pac 817 org 1 dst 2
+180 pac 818 org 2 dst 3
+190 pac 819 org 3 dst 4
+200 pac 820 org 4 dst 5
+210 pac 821 org 5 dst 6
+220 pac 822 org 6 dst 7
+230 pac 823 org 7 dst 8
+240 pac 824 org 8 dst 9
+250 pac 825 org 9 dst 10
+260 pac 826 org 10 dst 11
+270 pac 827 org 11 dst 12
+280 pac 828 org 12 dst 13
+290 pac 829 org 13 dst 14
+300 pac 830 org 14 dst 0
+310 pac 831 org 0 dst 1
+320 pac 832 org 1 dst 2
+330 pac 833 org 2 dst 3
+340 pac 834 org 3 dst 4
+350 pac 835 org 4 dst 5
+360 pac 836 org 5 dst 6
+370 pac 837 org 6 dst 7
+380 pac 838 org 7 dst 8
+390 pac 839 org 8 dst 9
+400 pac 840 org 9 dst 10
+410 pac 841 org 10 dst 11
+420 pac 842 org 11 dst 12
+430 pac 843 org 12 dst 13
+440 pac 844 org 13 dst 14
+450 pac 845 org 14 dst 0
+460 pac 846 org 0 dst 1
+470 pac 847 org 1 dst 2
+480 pac 848 org 2 dst 3
+490 pac 849 org 3 dst 4
+500 pac 850 org 4 dst 5
+510 pac 851 org 5 dst 6
+520 pac 852 org 6 dst 7
+530 pac 853 org 7 dst 8
+540 pac 854 org 8 dst 9
+550 pac 855 org 9 dst 10
+560 pac 856 org 10 dst 11
+570 pac 857 org 11 dst 12
+580 pac 858 org 12 dst 13
+590 pac 859 org 13 dst 14
+600 pac 860 org 14 dst 0
+610 pac 861 org 0 dst 1
+620 pac 862 org 1 dst 2
+630 pac 863 org 2 dst 3
+640 pac 864 org 3 dst 4
+650 pac 865 org 4 dst 5
+660 pac 866 org 5 dst 6
+670 pac 867 org 6 dst 7
+680 pac 868 org 7 dst 8
+690 pac 869 org 8 dst 9
+700 pac 870 org 9 dst 10
+710 pac 871 org 10 dst 11
+720 pac 872 org 11 dst 12
+730 pac 873 org 12 dst 13
+740 pac 874 org 13 dst 14
+750 pac 875 org 14 dst 0
+760 pac 876 org 0 dst 1
+770 pac 877 org 1 dst 2
+780 pac 878 org 2 dst 3
+790 pac 879 org 3 dst 4
+800 pac 880 org 4 dst 5
+810 pac 881 org 5 dst 6
+820 pac 882 org 6 dst 7
+830 pac 883 org 7 dst 8
+840 pac 884 org 8 dst 9
+850 pac 885 org 9 dst 10
+860 pac 886 org 10 dst 11
+870 pac 887 org 11 dst 12
+880 pac 888 org 12 dst 13
+890 pac 889 org 13 dst 14
+900 pac 890 org 14 dst 0
+910 pac 891 org 0 dst 1
+920 pac 892 org 1 dst 2
+930 pac 893 org 2 dst 3
+940 pac 894 org 3 dst 4
+950 pac 895 org 4 dst 5
+960 pac 896 org 5 dst 6
+970 pac 897 org 6 dst 7
+980 pac 898 org 7 dst 8
+990 pac 899 org 8 dst 9
+1000 pac 900 org 9 dst 10
+100
